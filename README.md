@@ -14,7 +14,6 @@ A FOC driver board for controlling multiple BLDC motors using **SimpleFOC** and 
   - [Repository Structure](#repository-structure)
   - [Hardware (PCB)](#hardware-pcb)
   - [Bill of Materials (BOM)](#bill-of-materials-bom)
-  - [Installation and Setup](#installation-and-setup)
 
 ---
 
