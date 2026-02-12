@@ -3,7 +3,7 @@ A FOC driver board for controlling multiple BLDC motors using **SimpleFOC** and 
 
 - Project: **FOC Motor Driver PCB**
 - Driver IC: **Texas Instruments DRV8313**
-- Firmware ecosystem: **SimpleFOC**
+- Firmware ecosystem: **Arduino and SimpleFOC library**
 
 ---
 
